@@ -3,7 +3,7 @@
 FASTQC Docker Container
 
 * [GitHub](https://github.com/informationsea/fastqc-docker)
-* [DockerHub](https://cloud.docker.com/repository/docker/informationsea/fastqc)
+* [DockerHub](https://hub.docker.com/r/informationsea/fastqc)
 
 ## Upstream Project
 
